@@ -1,7 +1,7 @@
 import React from "react";
 import ScreenHeading from "../ScreenHeading/ScreenHeading";
 import "./About.css";
-import CV from "../../../Other/CV.pdf";
+import CV from "../../../Other/Soumia_Slimani_CV.pdf";
 export default function About(props) {
   const SCREEN_CONSTANTS = {
     description:

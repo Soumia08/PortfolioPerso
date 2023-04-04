@@ -3,10 +3,16 @@ import Typical from 'react-typical'
 import emailjs from 'emailjs-com'
 
 import ScreenHeading from '../ScreenHeading/ScreenHeading'
+
+import SimpleModal from './SimpleModal';
+
+
 import './Contact.css'
 export default function Contact() {
 
-    const form = useRef();
+    const form = useRef(); 
+    const [isOpen, setIsOpen] = React.useState(false);
+
     const sendEmail = (e) => {
       e.preventDefault();
   
@@ -15,9 +21,27 @@ export default function Contact() {
             console.log(result.text);
         }, (error) => {
             console.log(error.text);
-        });
+        }) 
+        
+        setIsOpen(true );
+         ;
+      
     };
   
+    const title = "Message sent"
+    const bodyTxt = "Your message has been sent successfully"
+
+   
+
+    
+//   function openModal() {
+//     setIsOpen(true);
+//   }
+
+  function closeModal() {
+    setIsOpen(false);
+  }
+
 
   return (
 
@@ -72,6 +96,7 @@ export default function Contact() {
                         </form>
             </div>
         </div>
+        <SimpleModal title={title} bodyTxt={bodyTxt} handleCloseModal={closeModal} showModal={isOpen} />
     </div>
   )
 }

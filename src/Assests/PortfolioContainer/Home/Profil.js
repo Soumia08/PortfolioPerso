@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 
 
 import Typical from "react-typical";
-import CV from "../../../Other/CV.pdf";
+import CV from "../../../Other/Soumia_Slimani_CV.pdf";
 import './Profil.css'
 export default function Profil() {
 
@@ -50,11 +50,11 @@ export default function Profil() {
             <div className="colz-icon">
               <a
                 href="https://www.linkedin.com/in/soumia-slimani-834774150/"
-                target=""
+                target="_blank" 
               >
                 <BsLinkedin  style={style} />{" "}
               </a>
-              <a href="https://github.com/Soumia08" target="">
+              <a href="https://github.com/Soumia08" target="_blank" >
                 <FaGithub style={style} />
               </a>
             </div>
