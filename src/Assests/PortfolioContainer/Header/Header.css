@@ -1,0 +1,178 @@
+.header-container{
+
+    background-image: url("../../../Pictures/bg11.png");
+    
+   
+}
+
+
+.permalinks{
+
+  text-align: justify;
+}
+
+.header-container .permalinks .img-item img{
+    
+    padding: 20px;
+}
+
+
+.permalinks .nav-item {
+    list-style: none;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 20px;
+    font-family: cursive;
+    color: rgb(224, 221, 221);
+  
+    }
+
+.permalinks li{
+    display: inline-block;
+    margin: 0 25px;
+}
+
+.permalinks a{
+    color: white;
+    text-decoration: none;
+}
+
+.permalinks a:hover{
+    color: #f9a825;
+}
+
+
+.permalinks a.active {
+
+   
+    color: #f9a825;
+}
+
+
+ .header-phone{
+
+  display: none;
+  background: transparent;
+  color: white;
+  
+ 
+}
+
+
+  
+@media screen and (max-width: 500px){
+
+
+  .header-container{
+    width: 100%;
+  }
+  .header-pc{
+    display: none;
+
+  }
+
+  .header-phone{
+    display: block;
+    background: transparent;
+    color: #f9a825;
+    
+  }
+  
+  .header-phone .burger{
+    
+    margin-left: 80%;
+    margin-top: 30px;
+  }
+
+  .header-phone  img {
+    padding: 20px;
+    margin-top: -100px;
+    margin-left: -25px;
+  }
+  .header-phone .header-menu .nav-item {
+   
+   
+    margin-top: 2%;
+    text-align: center;
+    width: 80%;
+    }
+
+}
+
+
+  
+@media only screen and (max-width: 768px){
+
+
+  .header-container{
+    width: 100%;
+  }
+  .header-container .permalinks .img-item img{
+    
+    padding: 30px;
+    margin-left: -40px;
+}
+
+.permalinks .nav-item {
+
+  font-size: 20px;
+
+ 
+
+  margin-left: 2px;
+
+  }
+
+
+}
+
+
+/* @media screen and (max-width: 1000px){
+ 
+.header-pc{
+  display: none;
+}
+
+.header-phone{
+  display: contents;
+ 
+}
+
+.header-phone .burger{
+ float: right;
+ margin-top: 60px;
+}
+.header-phone img{
+  float: left;
+  margin-top: 0px;
+  padding: 15px;
+ }
+
+
+
+ .header-phone .header-menu .permalinks{
+
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    padding: 8px;
+    justify-content: center;
+ 
+ }
+ 
+
+ .header-phone .header-menu .permalinks .nav-item{
+
+  padding: 2px;
+  font-size: 20px;
+  
+  margin: 0px 15px 5px 5px;
+
+
+
+}
+
+ 
+} */
