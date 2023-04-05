@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PortfolioPerso/static/css/main.3b571b25.css",
+    "main.js": "/PortfolioPerso/static/js/main.dc858d90.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortfolioPerso/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Soumia_Slimani_CV.pdf": "/PortfolioPerso/static/media/Soumia_Slimani_CV.4c7b91d1a6c0f0ffaeb6.pdf",
+    "static/media/livretroc.png": "/PortfolioPerso/static/media/livretroc.e263a0054f0eee924369.png",
+    "static/media/portfolioImg.png": "/PortfolioPerso/static/media/portfolioImg.0d6898e8bb212206b39c.png",
+    "static/media/me.jpg": "/PortfolioPerso/static/media/me.571094eb9ca4abdfb8ae.jpg",
+    "static/media/Poppins-Thin.ttf": "/PortfolioPerso/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/PortfolioPerso/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/PortfolioPerso/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/PortfolioPerso/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/PortfolioPerso/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/PortfolioPerso/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/PortfolioPerso/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "index.html": "/PortfolioPerso/index.html",
+    "main.3b571b25.css.map": "/PortfolioPerso/static/css/main.3b571b25.css.map",
+    "main.dc858d90.js.map": "/PortfolioPerso/static/js/main.dc858d90.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortfolioPerso/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b571b25.css",
+    "static/js/main.dc858d90.js"
+  ]
+}
