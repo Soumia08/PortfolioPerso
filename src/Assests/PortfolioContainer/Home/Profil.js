@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 
 
 import Typical from "react-typical";
-import CV from "../../../Other/Soumia_Slimani_CV.pdf";
+import CV from "../../../Other/CV_Soumia_Slimani.pdf";
 import './Profil.css'
 export default function Profil() {
 

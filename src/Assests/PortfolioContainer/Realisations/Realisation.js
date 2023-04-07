@@ -11,6 +11,11 @@ import livre from '../../../Pictures/livretroc.png';
 
 import './Realisation.css'
 
+
+import { FaLink} from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
+
+
 export default function Realisation() {
 
   let Img = require('../../../Pictures/shape-bg.png');
@@ -80,7 +85,17 @@ export default function Realisation() {
                   <div className="client-info"> 
                      <a href="https://github.com/Soumia08"> <h5> Livre Troc </h5> </a>
                     <p>  Second hand books exchange application.</p>
-
+                    <div className="liens"> 
+                                <a
+                        href="https://www.linkedin.com/in/soumia-slimani-834774150/"
+                        target="_blank" 
+                      >
+                        <FaLink style={style} />{" "}
+                      </a>
+                      <a href="https://github.com/Soumia08" target="_blank" >
+                        <FaGithub style={style} />
+                      </a>
+                        </div>
                   </div>
                   <div className="realisation-text">
                   <div className="image"> 
@@ -93,16 +108,27 @@ export default function Realisation() {
               <div className="col-lg-12">
                 <div className="realisation-item">
                   <div className="client-info"> 
-                    <a href="https://github.com/Soumia08">  <h5> Portfolio </h5> </a> 
+                    <a href="https://soumia08.github.io/PortfolioPerso/"  target="_blank">  <h5> Portfolio </h5> </a> 
                     <p>  Site on which you are currently 🤭 .  </p>
+
+                    <div className="liens"> 
+                      <a
+                        href="https://soumia08.github.io/PortfolioPerso/"
+                        target="_blank" 
+                      >
+                        <FaLink  style={style} />{" "}
+                      </a>
+                      <a href="https://github.com/Soumia08/PortfolioPerso" target="_blank" >
+                        <FaGithub style={style} />
+                      </a>
+                        </div>
 
                   </div>
                   <div className="realisation-text">
-                   
                       <div className="image"> 
                        <img src={portfolio} alt="no cnx"/>
                         </div>
-                     
+                    
                   </div>
                 </div>
               </div>
@@ -114,9 +140,19 @@ export default function Realisation() {
                  
 
                   <div className="client-info"> 
-                     <a href="https://github.com/Soumia08"> <h5> Livre Troc  </h5> </a>
+                     <a href="https://github.com/Soumia08"   target="_blank"> <h5> Livre Troc  </h5> </a>
                     <p>  Second hand books exchange application.</p>
-
+                    <div className="liens"> 
+                                <a
+                        href="https://www.linkedin.com/in/soumia-slimani-834774150/"
+                        target="_blank" 
+                      >
+                        <FaLink  style={style} />{" "}
+                      </a>
+                      <a href="https://github.com/Soumia08" target="_blank" >
+                        <FaGithub style={style} />
+                      </a>
+                        </div>
                   </div>
                   <div className="realisation-text">
                   <div className="image"> 
@@ -131,7 +167,17 @@ export default function Realisation() {
                   <div className="client-info"> 
                     <a href="https://github.com/Soumia08">  <h5> Portfolio </h5> </a> 
                     <p>  Site on which you are currently 🤭 .  </p>
-
+                    <div className="liens"> 
+                                <a
+                        href="https://soumia08.github.io/PortfolioPerso/"
+                        target="_blank" 
+                      >
+                        <FaLink style={style} />{" "}
+                      </a>
+                      <a href="https://github.com/Soumia08/PortfolioPerso" target="_blank" >
+                        <FaGithub style={style} />
+                      </a>
+                        </div>
                   </div>
                   <div className="realisation-text">
                    
