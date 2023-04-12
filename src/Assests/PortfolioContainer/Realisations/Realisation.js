@@ -83,16 +83,16 @@ export default function Realisation() {
                  
 
                   <div className="client-info"> 
-                     <a href="https://github.com/Soumia08"> <h5> Livre Troc </h5> </a>
+                     <a href="https://github.com/Soumia08/Livre-Troc"> <h5> Livre Troc </h5> </a>
                     <p>  Second hand books exchange application.</p>
                     <div className="liens"> 
                                 <a
-                        href="https://www.linkedin.com/in/soumia-slimani-834774150/"
+                        href="https://github.com/Soumia08/Livre-Troc"
                         target="_blank" 
                       >
                         <FaLink style={style} />{" "}
                       </a>
-                      <a href="https://github.com/Soumia08" target="_blank" >
+                      <a href="https://github.com/Soumia08/Livre-Troc" target="_blank" >
                         <FaGithub style={style} />
                       </a>
                         </div>
@@ -140,16 +140,16 @@ export default function Realisation() {
                  
 
                   <div className="client-info"> 
-                     <a href="https://github.com/Soumia08"   target="_blank"> <h5> Livre Troc  </h5> </a>
+                     <a href="https://github.com/Soumia08/Livre-Troc"   target="_blank"> <h5> Livre Troc  </h5> </a>
                     <p>  Second hand books exchange application.</p>
                     <div className="liens"> 
                                 <a
-                        href="https://www.linkedin.com/in/soumia-slimani-834774150/"
+                        href="https://github.com/Soumia08/Livre-Troc"
                         target="_blank" 
                       >
                         <FaLink  style={style} />{" "}
                       </a>
-                      <a href="https://github.com/Soumia08" target="_blank" >
+                      <a href="https://github.com/Soumia08/Livre-Troc" target="_blank" >
                         <FaGithub style={style} />
                       </a>
                         </div>
