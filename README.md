@@ -1,12 +1,11 @@
-Mon site Portfolio est une vitrine de mes compétences en développement web Full Stack. Réalisé en utilisant React JS, HTML et CSS, ce site est conçu pour offrir une expérience utilisateur fluide et agréable. Il est constitué d'une seule page avec un en-tête et plusieurs sections : "About me", "Resume", "Achievements" et "Contact".
+My Portfolio website is a showcase of my Full Stack web development skills. Built using React JS, HTML, and CSS, this website is designed to provide a smooth and enjoyable user experience. It consists of a single page with a header and several sections: "About me," "Resume," "Achievements," and "Contact."
 
-La section "About me" est l'endroit où je me présente et où je parle de mes compétences en développement web. J'y explique mon parcours, mes formations et mes expériences professionnelles. J'y présente également mes compétences techniques, mes projets personnels et les technologies que je maîtrise. J'y ai mis en téléchargement mon CV pour plus de détails.
+The "About me" section is where I introduce myself and discuss my web development skills. I explain my background, education, and professional experiences. I also present my technical skills, personal projects, and the technologies I have mastered. I have included a download link for my CV for more details.
 
-La section "Resume" contient une briève version de mon CV, où je présente mon parcours professionnel, mes compétences techniques.
+The "Resume" section contains a concise version of my CV, where I highlight my professional journey and technical skills.
 
-La section "Achievements" est dédiée aux projets sur lesquels j'ai travaillé.J'y inclue également des démonstrations en ligne et des captures d'écran pour permettre aux visiteurs de découvrir mes compétences en action.
+The "Achievements" section is dedicated to the projects I have worked on. I include online demos and screenshots to allow visitors to see my skills in action.
 
-Enfin, la section "Contact" est l'endroit où les visiteurs peuvent me contacter. J'y ai inclus un formulaire de contact pour faciliter les échanges.
+Finally, the "Contact" section is where visitors can reach out to me. I have included a contact form to facilitate communication.
 
-Mon site Portfolio est une démonstration de mes compétences en développement web Full Stack et de mon engagement envers la qualité. J'ai conçu ce site avec soin pour offrir aux visiteurs une expérience agréable et informative.
-
+My Portfolio website is a demonstration of my Full Stack web development skills and my commitment to quality. I have carefully crafted this site to provide visitors with a pleasant and informative experience.
